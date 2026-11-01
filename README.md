@@ -285,4 +285,4 @@ The experiment led to the following conclusions:
 
 ---
 
-**Note:** The generated summaries and evaluation ratings are illustrative examples. Actual outputs and evaluation results should be updated after testing the same source article on all four AI platforms.
+
